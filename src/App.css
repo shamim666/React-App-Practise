@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -35,4 +36,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.container {
+
+  color:tomato
+}
+
+.product{
+  background-color: lightgreen;
+  margin: auto;
+  margin-top: 20px;
+  
 }
